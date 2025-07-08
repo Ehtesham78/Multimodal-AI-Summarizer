@@ -1,0 +1,10 @@
+streamlit 
+google-generativeai
+duckduckgo-search
+ffmpeg-python 
+speechrecognition 
+langdetect
+requests
+beautifulsoup4
+python-dotenv
+pytube

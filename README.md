@@ -37,7 +37,7 @@ git clone https://github.com/your-username/multimodal-ai-summarizer.git
 cd multimodal-ai-summarizer
 
 2. **Create a virtual environment (optional but recommended)**
-   python -m venv venv
+ python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 3. **Install the dependencies**
@@ -57,7 +57,7 @@ cd multimodal-ai-summarizer
 ├── README.md             # This file
 
 **REQUIREMENTS**
-# Python 3.8+
-# Google Cloud Translate API Key
-# FFmpeg installed and added to PATH
-# Stable internet connection (for API calls and video downloads)
+ Python 3.8+
+ Google Cloud Translate API Key
+ FFmpeg installed and added to PATH
+ Stable internet connection (for API calls and video downloads)
